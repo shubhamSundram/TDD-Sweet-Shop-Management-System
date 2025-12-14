@@ -158,6 +158,6 @@ AI didn’t replace my understanding or judgment—it **augmented** my thinking 
 <img width="1895" height="918" alt="image" src="https://github.com/user-attachments/assets/a07aeec5-22be-4dff-a649-5af06012e78c" />
 
 ---
-## Author : Tirth Mehta
+## Author : Shubham Sundram
 
 
